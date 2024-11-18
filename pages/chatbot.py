@@ -1,5 +1,6 @@
 import streamlit as st
 import requests
+import os
 
 # Set your OpenRouter API key and optional headers
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") # Replace with your OpenRouter API key
