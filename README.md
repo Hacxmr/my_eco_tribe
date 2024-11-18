@@ -22,7 +22,7 @@ The dataset used is [FabricFrontiers](https://huggingface.co/datasets/infinite-d
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Hacxmr/Eco-Friendly-Tribe.git
+    git clone https://github.com/Hacxmr/my_eco_tribe.git
     cd Eco-Friendly-Tribe
     ```
 
