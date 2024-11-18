@@ -2,9 +2,9 @@
 
 This project is a fabric recommendation system that helps users find eco-friendly and sustainable fabric options by suggesting similar fabrics based on an initial selection. The recommendation system is powered by FAISS (Facebook AI Similarity Search), and it uses Streamlit for an interactive frontend experience.
 
-This system is a part of the [Eco-Friendly Tribe](https://github.com/Hacxmr/Eco-Friendly-Tribe) project, which aims to promote sustainable fabric choices.
+This system is a part of the [Eco-Friendly Tribe](https://github.com/Hacxmr/my_eco_tribe) project, which aims to promote sustainable fabric choices.
 
-![Eco-Friendly Fabric Recommendation System](https://github.com/Hacxmr/Eco-Friendly-Tribe/blob/main/fabric_recomm.jpg)
+![Eco-Friendly Fabric Recommendation System](https://github.com/Hacxmr/my_eco_tribe/blob/main/fabric_recommendation.jpg)
 
 ## Features
 
