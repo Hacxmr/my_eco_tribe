@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set your OpenRouter API key and optional headers
-OPENROUTER_API_KEY = "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"  # Replace with your OpenRouter API key
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY") # Replace with your OpenRouter API key
 YOUR_SITE_URL = "https://yourwebsite.com"       # Optional: For rankings
 YOUR_APP_NAME = "ClothRecommendationApp"        # Optional: App name for OpenRouter rankings
 
