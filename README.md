@@ -109,4 +109,4 @@ Contributions are welcome! If you want to contribute:
 For any queries or suggestions, feel free to reach out:
 
 - **GitHub**: [@Hacxmr](https://github.com/Hacxmr)
-- **Email**: [your-email@example.com](rajmitali1111@gmail.com)
+- **Email**: [rajmitali1111@gmail.com](rajmitali1111@gmail.com)
