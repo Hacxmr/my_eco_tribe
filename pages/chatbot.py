@@ -37,7 +37,7 @@ def get_clothing_recommendations(user_input):
 
 # Chatbot Interface
 def chatbot_ui():
-    st.set_page_config(page_title="Clothing Recommendation Chatbot", page_icon="👗")
+    st.set_page_config(page_title="Revive the Vibe : Personalised Chatbot", page_icon="👗")
     st.title("👗 Clothing Recommendation Chatbot")
     
     st.write("### Ask the chatbot for clothing suggestions!")
