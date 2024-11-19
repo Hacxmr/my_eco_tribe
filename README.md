@@ -4,7 +4,7 @@ The **Eco-Friendly Fabric Recommendation System** helps users discover sustainab
 
 This project is part of the [Eco-Friendly Tribe](https://github.com/Hacxmr/my_eco_tribe) initiative, which aims to promote sustainable fabric choices.
 
-![Eco-Friendly Fabric Recommendation System](https://github.com/Hacxmr/my_eco_tribe/blob/main/fabric_recommendation.jpg)
+![Eco-Friendly Fabric Recommendation System](https://github.com/Hacxmr/my_eco_tribe/blob/main/improved_app.jpg)
 
 ---
 
