@@ -25,7 +25,7 @@ def get_clothing_recommendations(user_input):
             {"role": "user", "content": user_input},
         ],
         "temperature": 0.7,
-        "max_tokens": 300,
+        "max_tokens": 500,
     }
 
     response = requests.post(url, headers=headers, json=payload)
