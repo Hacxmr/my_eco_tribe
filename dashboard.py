@@ -20,7 +20,7 @@ def get_fashion_recommendations(user_input):
             {"role": "system", "content": "You are an assistant specializing in sustainable fashion recommendations."},
             {"role": "user", "content": user_input},
         ],
-        "temperature": 0.4,
+        "temperature": 0.9,
         "max_tokens": 500,
     }
 
