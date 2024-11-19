@@ -40,7 +40,7 @@ def sustainable_fashion_dashboard():
     )
 
     # Title and Description
-    st.title("🌿 Sustainable Fashion Recommendation Dashboard")
+    st.title("🌿 Revive the Vibe:Sustainable Fashion Recommendation Dashboard")
     st.markdown(
         """
         Welcome to the Sustainable Fashion Dashboard! 🌱  
@@ -80,11 +80,11 @@ def sustainable_fashion_dashboard():
             - **Care for your clothes:** Extend the life of your wardrobe by washing less, repairing, and upcycling.
             """
         )
-        st.image(
-            "https://images.unsplash.com/photo-1618354699826-d965d6c4e09b",
-            caption="Sustainable Fashion Inspiration",
-            use_column_width=True,
-        )
+        # st.image(
+        #     "https://images.unsplash.com/photo-1618354699826-d965d6c4e09b",
+        #     caption="Sustainable Fashion Inspiration",
+        #     use_column_width=True,
+        # )
 
     # Sustainable Brands Section
     elif section == "Sustainable Brands":
@@ -99,11 +99,11 @@ def sustainable_fashion_dashboard():
             - **Eileen Fisher**: Timeless, minimalist clothing with ethical practices.
             """
         )
-        st.image(
-            "https://images.unsplash.com/photo-1512757776218-8c7babd9f9d0",
-            caption="Support Sustainable Fashion Brands",
-            use_column_width=True,
-        )
+        # st.image(
+        #     "https://images.unsplash.com/photo-1512757776218-8c7babd9f9d0",
+        #     caption="Support Sustainable Fashion Brands",
+        #     use_column_width=True,
+        # )
 
     # Impact Calculator Section
     elif section == "Impact Calculator":
