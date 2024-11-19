@@ -40,7 +40,7 @@ def sustainable_fashion_dashboard():
     )
 
     # Title and Description
-    st.title("🌿 Revive the Vibe:Sustainable Fashion Recommendation Dashboard")
+    st.title("🌿 Revive the Vibe : Sustainable Fashion Recommendation Dashboard")
     st.markdown(
         """
         Welcome to the Sustainable Fashion Dashboard! 🌱  
